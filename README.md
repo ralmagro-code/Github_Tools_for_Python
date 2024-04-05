@@ -19,11 +19,11 @@ Descrição: Agora vamos solicitar uma string e um número inteiro como entrada.
 
 O que aprenderemos?
 
-Manipulação de Strings (string)
-Números Inteiros (int)
-Múltiplas repetições
-Entrada de dados
-Aproveitar as sugestões do Github Copilot
+- Manipulação de Strings (string)
+- Números Inteiros (int)
+- Múltiplas repetições
+- Entrada de dados
+- Aproveitar as sugestões do Github Copilot
 
 ----------------------------------------------------------------------------------
 
@@ -32,9 +32,9 @@ Descrição: Vamos solicitar como entrada dois números e depois vamos realizar 
 
 O que aprenderemos?
 
-Operações Matemáticas Básicas
-Entrada de dados
-Utilização eficiente do Github Copilot
+- Operações Matemáticas Básicas
+- Entrada de dados
+- Utilização eficiente do Github Copilot
 
 ----------------------------------------------------------------------------------
 
@@ -43,9 +43,9 @@ Descrição: Como entrada, receba um número inteiro e verifique se ele é par o
 
 O que aprenderemos?
 
-Utilização de condicionais em Python (if, else) para realizar verificações.
-Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
-Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
+- Utilização de condicionais em Python (if, else) para realizar verificações.
+- Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
+- Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
 
 ----------------------------------------------------------------------------------
 
@@ -54,9 +54,9 @@ Descrição: Agora vamos calcular a média de três notas fornecidas na entrada 
 
 O que aprenderemos?
 
-Uso de variáveis para armazenar dados fornecidos pelo usuário.
-Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
-Prática na solicitação e manipulação de entrada do usuário.
+- Uso de variáveis para armazenar dados fornecidos pelo usuário.
+- Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
+- Prática na solicitação e manipulação de entrada do usuário.
 
 ----------------------------------------------------------------------------------
 
@@ -65,6 +65,6 @@ Descrição: Vamos testar se uma palavra é um palíndromo?! Uma dica é: Utiliz
 
 O que aprenderemos?
 
-Manipulação de strings em Python, especialmente invertendo uma string.
-Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
-Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+- Manipulação de strings em Python, especialmente invertendo uma string.
+- Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
+- Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
