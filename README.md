@@ -13,6 +13,7 @@ Entrada de dados
 Utilização eficiente do Github Copilot
 
 ----------------------------------------------------------------------------------
+
 2 - Repetindo Textos ✏️
 Descrição: Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado.
 
@@ -25,6 +26,7 @@ Entrada de dados
 Aproveitar as sugestões do Github Copilot
 
 ----------------------------------------------------------------------------------
+
 3 - Operações Matemáticas Simples 📐
 Descrição: Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
 
@@ -33,6 +35,7 @@ O que aprenderemos?
 Operações Matemáticas Básicas
 Entrada de dados
 Utilização eficiente do Github Copilot
+
 ----------------------------------------------------------------------------------
 
 4 - Verificando Números Pares e Ímpares 🧮
@@ -45,6 +48,7 @@ Introdução ao conceito de operador de módulo (%) para verificar se um número
 Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
 
 ----------------------------------------------------------------------------------
+
 5 - Calculando Média de Notas 📚
 Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
 
@@ -53,6 +57,7 @@ O que aprenderemos?
 Uso de variáveis para armazenar dados fornecidos pelo usuário.
 Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 Prática na solicitação e manipulação de entrada do usuário.
+
 ----------------------------------------------------------------------------------
 
 6 - Verificando Palíndromos 🔄
