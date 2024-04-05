@@ -7,10 +7,10 @@ Descrição: Vamos receber dois dados diferentes do usuário e concatena-los em 
 
 O que aprenderemos?
 
-Manipulação de Strings (string)
-Concatenação
-Entrada de dados
-Utilização eficiente do Github Copilot
+- Manipulação de Strings (string)
+- Concatenação
+- Entrada de dados
+- Utilização eficiente do Github Copilot
 
 ----------------------------------------------------------------------------------
 
